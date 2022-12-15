@@ -21,7 +21,7 @@
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliktk" alt="aliktk" /></a> </p> -->
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faranbutt" alt="faranbutt" /></a> </p> -->
 <h2 align="left">⚡ Profile Overview ⚡</h2>
 
 - 🔭 I’m currently working on <b>Robot Control,Simultaneous Localization and Mapping,Visula Odometery,Computer Vision,Augmented Reality,UI/UX design</b> .
