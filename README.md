@@ -95,7 +95,7 @@
 <h2 align="left">⚡Thanks for stopping by 😁:) ⚡</h2>
 <!-- <p align="center" >Thanks for stopping by 😁</><br/> -->
 <h3 align="left">⚡ You can Support on:</h3>
-<p><a href="https://www.buymeacoffee.com/alinawazktk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alinawazktk" /></a><a href="https://ko-fi.com/alinawaz"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="alinawaz" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/faranbutt"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="faranbutt" /></a><a href="https://ko-fi.com/faranbutt"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt=faranbutt" /></a></p><br><br>
 </p>
 
 <p align="left">
