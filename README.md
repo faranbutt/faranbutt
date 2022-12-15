@@ -91,3 +91,16 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=CLI-Calculator-&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/CLI-Calculator-.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=CIFAR-10-Prediction-ANN-&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/CIFAR-10-Prediction-ANN-.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Heart-Disease-Prediction-using-Random-Forest-Classifier&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Heart-Disease-Prediction-using-Random-Forest-Classifier.git.git)
+<br><br>
+<h2 align="left">⚡Thanks for stopping by 😁:) ⚡</h2>
+<!-- <p align="center" >Thanks for stopping by 😁</><br/> -->
+<h3 align="left">⚡ You can Support on:</h3>
+<p><a href="https://www.buymeacoffee.com/alinawazktk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alinawazktk" /></a><a href="https://ko-fi.com/alinawaz"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="alinawaz" /></a></p><br><br>
+</p>
+
+<p align="left">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Aliktk/count.svg" />
+</p>
+<p align="left"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frajput2107%2F" /></p>
+
