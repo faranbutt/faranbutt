@@ -95,12 +95,7 @@
 <h2 align="left">⚡Thanks for stopping by 😁:) ⚡</h2>
 <!-- <p align="center" >Thanks for stopping by 😁</><br/> -->
 <h3 align="left">⚡ You can Support on:</h3>
-<p><a href="https://www.buymeacoffee.com/faranbutt"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="faranbutt" /></a><a href="https://ko-fi.com/faranbutt"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt=faranbutt" /></a></p><br><br>
-</p>
-
-<p align="left">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Aliktk/count.svg" />
+<p><a href="https://www.buymeacoffee.com/faranbutt"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="faranbutt" /></a><a href="https://ko-fi.com/farantaimoorbutt"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt=faranbutt" /></a></p><br><br>
 </p>
 <p align="left"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frajput2107%2F" /></p>
 
