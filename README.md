@@ -8,4 +8,4 @@
 faranbutt/faranbutt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Viking-Augmented-Reality)](https://github.com/faranbutt/Viking-Augmented-Reality.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Viking-Augmented-Reality&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Viking-Augmented-Reality.git)
