@@ -10,7 +10,7 @@
   <h3>Hi, I'm Faran Taimoor Butt, A passionate Robotics Engineer, Computer Vision Enthusiast 👨‍💻 &  Certified Computer Hacking Forensic Investigator 🦸‍♂️ from Pakistan.</h3>
   🎓 Completed my bachelor degree from <a href="https://www.au.edu.pk/"><b> Air University.</b></a>
   <br>
-  🧑‍💼 I’m currently working as Research Intern at <a href="https://naci.nust.edu.pk/"><b> NCAI</b> </a>
+  🧑‍💼 I’m currently working as Research Intern at <a href="https://ncai.nust.edu.pk/"><b> NCAI</b> </a>
   <br></p>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faranbutt&label=Profile%20views&color=orange&style=flat" alt="faranbutt" /> </p>
@@ -24,7 +24,7 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faranbutt" alt="faranbutt" /></a> </p> -->
 <h2 align="left">⚡ Profile Overview ⚡</h2>
 
-- 🔭 I’m currently working on <b>Robot Control,Simultaneous Localization and Mapping,Visula Odometery,Computer Vision,Augmented Reality,UI/UX design</b> .
+- 🔭 I’m currently working on <b>Robot Control,Simultaneous Localization and Mapping,Visual Odometery,Computer Vision,Augmented Reality,UI/UX design</b> .
 
 - 🌱 I’m currently learning **Web 3,Metaverse,Data Engineering,Brain Computer Interface(BCI),Data Science**
 
@@ -94,7 +94,7 @@
 <br><br>
 <h2 align="left">⚡Thanks for stopping by 😁:) ⚡</h2>
 <!-- <p align="center" >Thanks for stopping by 😁</><br/> -->
-<h3 align="left">⚡ You can Support on:</h3>
+<h3 align="left">⚡ If you like my work buy me coffee:</h3>
 <p><a href="https://www.buymeacoffee.com/faranbutt"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="faranbutt" /></a><a href="https://ko-fi.com/farantaimoorbutt"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt=faranbutt" /></a></p><br><br>
 </p>
 <p align="left"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frajput2107%2F" /></p>
