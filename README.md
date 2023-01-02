@@ -4,7 +4,7 @@
 
 <h1 align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Faran+Butt!;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Faran+Butt!;&center=true&size=30">
   </a></h1><!-- <h1 >Hi 👋, I'm Faran Taimoor Butt</h1> -->
 <p align="left">
   <h3>Hi, I'm Faran Taimoor Butt, A passionate Robotics Engineer, Computer Vision Enthusiast 👨‍💻 &  Certified Computer Hacking Forensic Investigator 🦸‍♂️ from Pakistan.</h3>
