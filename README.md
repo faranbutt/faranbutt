@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Faran+Butt!;&center=true&size=30">
   </a></h1><!-- <h1 >Hi 👋, I'm Faran Taimoor Butt</h1> -->
 <p align="left">
-  <h3>Hi, I'm Faran Taimoor Butt, A passionate Robotics Engineer, Computer Vision Enthusiast 👨‍💻 &  Certified Computer Hacking Forensic Investigator 🦸‍♂️ from Pakistan.</h3>
+  <h3>Hi, I'm Faran Taimoor Butt, A passionate Full Stack Software Engineer, Robotics Engineer, Computer Vision Enthusiast 👨‍💻 &  Certified Computer Hacking Forensic Investigator 🦸‍♂️ from Pakistan.</h3>
   🎓 Completed my bachelor degree from <a href="https://www.au.edu.pk/"><b> Air University.</b></a>
   <br>
   🧑‍💼 I’m currently working as Research Intern at <a href="https://ncai.nust.edu.pk/"><b> NCAI</b> </a>
