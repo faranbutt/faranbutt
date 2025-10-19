@@ -5,6 +5,15 @@ My expertise spans **Deep Learning, Reinforcement Learning, Computer Vision, Rec
 
 ---
 
+
+### 🧩 Technologies & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,flask,fastapi,react,nextjs,nodejs,tailwind,mongodb,git,linux,cpp" />
+</p>
+
+---
+
+
 ## 🚀 Featured Projects
 
 | Reinforcement Learning — MIPT | Computer Vision |
@@ -33,21 +42,19 @@ My expertise spans **Deep Learning, Reinforcement Learning, Computer Vision, Rec
 
 ---
 
-## 🧰 Tech Stack
 
-**Languages:** Python, JavaScript, C++, Solidity  
-**Frameworks:** PyTorch, TensorFlow, Flask, Next.js, React, FastAPI  
-**Tools:** Docker, Git, AWS, MongoDB, Firebase  
-**Specializations:** Computer Vision, Deep Learning, Reinforcement Learning, Generative AI  
-
----
-
-## 📫 Connect With Me
-
-- 💼 [LinkedIn](https://linkedin.com/in/faran-taimoor-butt)  
-- 🧑‍💻 [GitHub](https://github.com/faranbutt)  
-- 🌐 [Portfolio Website](https://your-website-link.com)
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=faranbutt&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faranbutt&layout=compact&theme=radical" height="150"/>
+</p>
 
 ---
 
-⭐ *If you find my projects helpful, consider following or starring my repositories!*
+### ☕ Let’s Connect
+If you’re interested in **collaborating on AI, robotics, or full-stack ML projects**, feel free to reach out!  
+📩 **faranbutt789@gmail.com**
+
+---
+
+<p align="center">✨ *Exploring the intersection of AI, robotics, and human intelligence.* ✨</p>
