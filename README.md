@@ -25,7 +25,7 @@ My expertise spans **Deep Learning, Reinforcement Learning, Computer Vision, Rec
 
 | FastContentAI | 3D U-Net Brain Tumor Segmentation |
 |----------------|------------------------------------|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=FastContentAI&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/FastContentAI) | 🧠 **3D U-Net Brain Tumor Segmentation – MVP (BRATS Dataset)**<br>A Minimum Viable Product (MVP) for brain tumor segmentation using 3D U-Net trained on the BRATS dataset. Built as part of the InteRussia Fellowship (AI in Medicine Track) at Novosibirsk State University. |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=FastContentAI&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/FastContentAI) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Image-Segmentation-MRI&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Image-Segmentation-MRI) |
 
 | Presale Staking DApp | Dine – Ecommerce Website |
 |----------------------|---------------------------|
