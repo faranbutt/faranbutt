@@ -49,9 +49,9 @@ My expertise spans **Deep Learning, Reinforcement Learning, Computer Vision, Rec
 |-------------|--------------|
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Skin-Care-AI&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Skin-Care-AI) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Language-Lab&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Language-Lab) |
 
-| [Easy Scrape](https://github.com/faranbutt/Web-Parser) | [Mindful AI](https://github.com/timothelaborie/Eye-blinking-classifier) |
+| [Easy Scrape](https://github.com/faranbutt/Web-Parser) | [Mindful AI (Eye Welness Agent)](https://github.com/timothelaborie/Eye-blinking-classifier) |
 |--------------|------------|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Web-Parser&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Web-Parser) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=timothelaborie&repo=Eye-blinking-classifier&theme=react&border_color=61dafb&border_radius=10)](https://github.com/timothelaborie/Eye-blinking-classifier) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Web-Parser&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Web-Parser) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Eye-blinking-classifier&theme=react&border_color=61dafb&border_radius=10)]([https://github.com/timothelaborie/Eye-blinking-classifier](https://github.com/faranbutt/Eye-blinking-classifier)) |
 
 ---
 
