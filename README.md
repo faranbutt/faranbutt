@@ -45,15 +45,13 @@ My expertise spans **Deep Learning, Reinforcement Learning, Computer Vision, Rec
 |----------------------|---------------------------|
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Presale-staking-dapp&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Presale-staking-dapp) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Ecommerce-App-Full-Stack&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Ecommerce-App-Full-Stack) |
 
-
-| SkinCareAI  | Language Lab (Language Learning Agent) |
+| [SkinCareAI](https://github.com/faranbutt/Skin-Care-AI) | [Language Lab](https://github.com/faranbutt/Language-Lab) |
 |-------------|--------------|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Skin-Care-AI&theme=react&border_color=61dafb&border_radius=10)]([https://github.com/faranbutt/Skin-Care-AI](https://github.com/faranbutt/Skin-Care-AI)) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Language-Lab&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Language-Lab) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Skin-Care-AI&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Skin-Care-AI) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Language-Lab&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Language-Lab) |
 
-| Easy Scrape (Web Scraping Buddy) | Mindful AI (Eye Healthcare Agent) |
+| [Easy Scrape](https://github.com/faranbutt/Web-Parser) | [Mindful AI](https://github.com/timothelaborie/Eye-blinking-classifier) |
 |--------------|------------|
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Web-Parser&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Web-Parser) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=timothelaborie&repo=Eye-blinking-classifier&theme=react&border_color=61dafb&border_radius=10)](https://github.com/timothelaborie/Eye-blinking-classifier) |
-
 
 ---
 
