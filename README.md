@@ -48,7 +48,7 @@ My expertise spans **Deep Learning, Reinforcement Learning, Computer Vision, Rec
 
 | SkinCareAI  | Language Lab (Language Learning Agent) |
 |-------------|--------------|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Skin-Care-AI&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Skin-Care-AI) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Language-Lab&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Language-Lab) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Skin-Care-AI&theme=react&border_color=61dafb&border_radius=10)]([https://github.com/faranbutt/Skin-Care-AI](https://github.com/faranbutt/Skin-Care-AI)) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Language-Lab&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Language-Lab) |
 
 | Easy Scrape (Web Scraping Buddy) | Mindful AI (Eye Healthcare Agent) |
 |--------------|------------|
