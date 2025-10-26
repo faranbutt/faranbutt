@@ -53,6 +53,15 @@ My expertise spans **Deep Learning, Reinforcement Learning, Computer Vision, Rec
 |--------------|------------|
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Web-Parser&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Web-Parser) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Eye-blinking-classifier&theme=react&border_color=61dafb&border_radius=10)]([https://github.com/timothelaborie/Eye-blinking-classifier](https://github.com/faranbutt/Eye-blinking-classifier)) |
 
+| IntelliSum | Music Mood App (GenZ Music Generator) |
+|-------------|---------------------------------------|
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=IntelliSum&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/IntelliSum) | [![Static Badge](https://img.shields.io/badge/Project-Link-blue?style=for-the-badge&logo=internet-explorer)](https://lablab.ai/event/audiocraft-24-hours-hackathon/audiophiles/music-mood-app-genz-music-generator) |
+
+| DALL·E 360 | Object Tracking via Kalman Filter |
+|--------------|-----------------------------------|
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=dalle-360&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/dalle-360) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Object-Tracking-via-Kalman-Filter&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Object-Tracking-via-Kalman-Filter) |
+
+
 ---
 
 
