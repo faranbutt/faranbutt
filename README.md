@@ -55,7 +55,7 @@ My expertise spans **Deep Learning, Reinforcement Learning, Computer Vision, Rec
 
 | IntelliSum | Music Mood App (GenZ Music Generator) |
 |-------------|---------------------------------------|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=IntelliSum&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/IntelliSum) | [![Static Badge](https://img.shields.io/badge/Project-Link-blue?style=for-the-badge&logo=internet-explorer)](https://lablab.ai/event/audiocraft-24-hours-hackathon/audiophiles/music-mood-app-genz-music-generator) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=IntelliSum&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/IntelliSum) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=AudioCraft&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/AudioCraft) |
 
 | DALL·E 360 | Object Tracking via Kalman Filter |
 |--------------|-----------------------------------|
