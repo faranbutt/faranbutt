@@ -1,7 +1,7 @@
 # 🧠 Machine Learning & AI Engineer — Faran Taimoor Butt
 
-Hi! I'm **Faran Taimoor Butt**, a **Machine Learning / AI Engineer** passionate about building intelligent systems that bridge research and real-world applications.  
-My expertise spans **Deep Learning, Reinforcement Learning, Computer Vision, Recommender Systems, and AI-driven Web Applications**.  
+Hi! I'm **Faran Taimoor Butt**, a Full Stack Software Engineer and Machine Learning/AI Engineer with expertise in building scalable web applications and intelligent systems that solve real-world problems.
+My expertise spans **Natural Language Processing, Reinforcement Learning, Computer Vision, Recommender Systems, Web & Mobile Application Development **.  
 
 ---
 
