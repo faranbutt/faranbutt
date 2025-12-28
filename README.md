@@ -5,7 +5,6 @@ My expertise spans **Natural Language Processing, Reinforcement Learning, Comput
 
 ---
 
-
 ### 🧩 Technologies & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,flask,fastapi,react,nextjs,nodejs,tailwind,mongodb,git,linux,cpp" />
@@ -13,57 +12,53 @@ My expertise spans **Natural Language Processing, Reinforcement Learning, Comput
 
 ---
 
-
 ## 🚀 Featured Projects
 
-| Reinforcement Learning — MIPT | Computer Vision |
-|--------------------------------|------------------|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Reinforcement-Learning-MIPT&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Reinforcement-Learning-MIPT) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Computer-Vision&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Computer-Vision) |
+| Cassava Disease Prediction | Reinforcement Learning — MIPT |
+|----------------------------|-------------------------------|
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Cassava-Disease-Prediction&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Cassava-Disease-Prediction) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Reinforcement-Learning-MIPT&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Reinforcement-Learning-MIPT) |
 
-| Flower Vision | Concrete Crack Detection |
-|----------------|---------------------------|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Flower-Vision&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Flower-Vision) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Concreate-Crack-Detection&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Concreate-Crack-Detection) |
+| Computer Vision | Flower Vision |
+|-----------------|----------------|
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Computer-Vision&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Computer-Vision) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Flower-Vision&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Flower-Vision) |
 
-| GAN Learning | Machine Learning — MIPT |
-|----------------|----------------------------|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=GAN-Learning&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/GAN-Learning) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Machine-Learing-MIPT&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Machine-Learing-MIPT) |
+| Concrete Crack Detection | GAN Learning |
+|---------------------------|----------------|
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Concreate-Crack-Detection&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Concreate-Crack-Detection) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=GAN-Learning&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/GAN-Learning) |
 
-| Geometric Deep Learning — MIPT | Recommender Systems — MIPT |
-|--------------------------------|-----------------------------|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Geometeric-Deep-Learning-MIPT&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Geometeric-Deep-Learning-MIPT) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Recommender-Systems&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Recommender-Systems) |
+| Machine Learning — MIPT | Geometric Deep Learning — MIPT |
+|----------------------------|--------------------------------|
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Machine-Learing-MIPT&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Machine-Learing-MIPT) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Geometeric-Deep-Learning-MIPT&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Geometeric-Deep-Learning-MIPT) |
 
-| FastContentAI | 3D U-Net Brain Tumor Segmentation |
-|----------------|------------------------------------|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=FastContentAI&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/FastContentAI) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Image-Segmentation-MRI&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Image-Segmentation-MRI) |
+| Recommender Systems — MIPT | FastContentAI |
+|-----------------------------|----------------|
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Recommender-Systems&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Recommender-Systems) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=FastContentAI&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/FastContentAI) |
 
-| Presale Staking DApp | Dine – Ecommerce Website |
-|----------------------|---------------------------|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Presale-staking-dapp&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Presale-staking-dapp) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Ecommerce-App-Full-Stack&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Ecommerce-App-Full-Stack) |
+| 3D U-Net Brain Tumor Segmentation | Presale Staking DApp |
+|----------------------------------|----------------------|
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Image-Segmentation-MRI&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Image-Segmentation-MRI) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Presale-staking-dapp&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Presale-staking-dapp) |
 
+| Dine – Ecommerce Website | SkinCareAI |
+|---------------------------|------------|
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Ecommerce-App-Full-Stack&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Ecommerce-App-Full-Stack) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Skin-Care-AI&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Skin-Care-AI) |
 
-| Presale Staking DApp | Dine – Ecommerce Website |
-|----------------------|---------------------------|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Presale-staking-dapp&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Presale-staking-dapp) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Ecommerce-App-Full-Stack&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Ecommerce-App-Full-Stack) |
-
-| [SkinCareAI](https://github.com/faranbutt/Skin-Care-AI) | [Language Lab](https://github.com/faranbutt/Language-Lab) |
-|-------------|--------------|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Skin-Care-AI&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Skin-Care-AI) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Language-Lab&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Language-Lab) |
-
-| [Easy Scrape](https://github.com/faranbutt/Web-Parser) | [Mindful AI (Eye Welness Agent)](https://github.com/timothelaborie/Eye-blinking-classifier) |
+| Language Lab | Easy Scrape |
 |--------------|------------|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Web-Parser&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Web-Parser) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Eye-blinking-classifier&theme=react&border_color=61dafb&border_radius=10)]([https://github.com/timothelaborie/Eye-blinking-classifier](https://github.com/faranbutt/Eye-blinking-classifier)) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Language-Lab&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Language-Lab) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Web-Parser&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Web-Parser) |
 
-| IntelliSum | Music Mood App (GenZ Music Generator) |
-|-------------|---------------------------------------|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=IntelliSum&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/IntelliSum) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=AudioCraft&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/AudioCraft) |
+| Mindful AI (Eye Welness Agent) | IntelliSum |
+|--------------------------------|------------|
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Eye-blinking-classifier&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Eye-blinking-classifier) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=IntelliSum&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/IntelliSum) |
 
-| DALL·E 360 | Object Tracking via Kalman Filter |
-|--------------|-----------------------------------|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=dalle-360&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/dalle-360) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Object-Tracking-via-Kalman-Filter&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Object-Tracking-via-Kalman-Filter) |
+| Music Mood App (GenZ Music Generator) | DALL·E 360 |
+|---------------------------------------|------------|
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=AudioCraft&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/AudioCraft) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=dalle-360&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/dalle-360) |
 
+| Object Tracking via Kalman Filter |
+|----------------------------------|
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Object-Tracking-via-Kalman-Filter&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Object-Tracking-via-Kalman-Filter) |
 
 ---
-
 
 ### 📊 GitHub Stats
 <p align="center">
