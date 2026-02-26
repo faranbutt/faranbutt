@@ -7,7 +7,7 @@ My expertise spans **Natural Language Processing, Reinforcement Learning, Comput
 
 ### 🧩 Technologies & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,flask,fastapi,react,nextjs,nodejs,tailwind,mongodb,git,linux,cpp" />
+  <img src="https://skillicons.dev/icons?i=javascript,nestjs,python,pytorch,tensorflow,opencv,flask,fastapi,react,nextjs,nodejs,tailwind,mongodb,git,linux,cpp" />
 </p>
 
 ---
