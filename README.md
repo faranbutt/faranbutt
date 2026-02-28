@@ -4,6 +4,21 @@ Hi! I'm **Faran Taimoor Butt**, a Full Stack Software Engineer and Machine Learn
 
 ---
 
+## 🧩 Technologies & Tools
+
+### Full Stack Stack
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nestjs,nodejs,express,tailwind,mongodb,postgres,docker,aws" />
+</p>
+
+### Machine Learning Stack
+<p align="left">
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,flask,fastapi,opencv,linux,cpp" />
+</p>
+>
+
+---
+
 ## 🚀 Featured Projects
 
 ### **Full Stack & Web Engineering (Featured)**
@@ -24,20 +39,7 @@ Hi! I'm **Faran Taimoor Butt**, a Full Stack Software Engineer and Machine Learn
 * 👁️ [**Mindful AI**](https://github.com/faranbutt/Eye-blinking-classifier) – Computer vision agent designed to track eye-blinking for user wellness.
 * 🎼 [**Music Mood App**](https://github.com/faranbutt/AudioCraft) – Generative AI music platform that creates tracks based on user sentiment.
 
----
 
-## 🧩 Technologies & Tools
-
-### Full Stack Stack
-<p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nestjs,nodejs,express,tailwind,mongodb,postgres,docker,aws" />
-</p>
-
-### Machine Learning Stack
-<p align="left">
-<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,flask,fastapi,opencv,linux,cpp" />
-</p>
->
 
 ---
 
