@@ -7,10 +7,8 @@ Hi! I'm **Faran Taimoor Butt**, a Full Stack Software Engineer and Machine Learn
 ## 🚀 Featured Projects
 
 ### **AI & Machine Learning**
-* 🧠 [**FastContentAI**](https://github.com/faranbutt/FastContentAI) – AI-powered content generation platform built with LLM pipelines and LangChain.
 * 🏥 [**3D U-Net Brain Tumor Segmentation**](https://github.com/faranbutt/Image-Segmentation-MRI) – Deep learning model for high-precision MRI medical image segmentation.
 * 🌿 [**Cassava Disease Prediction**](https://github.com/faranbutt/Cassava-Disease-Prediction) – Computer vision system to identify and classify agricultural crop diseases.
-* 🧴 [**SkinCareAI**](https://github.com/faranbutt/Skin-Care-AI) – Intelligent diagnostic tool using image classification for skin health analysis.
 * 🤖 [**Reinforcement Learning (MIPT)**](https://github.com/faranbutt/Reinforcement-Learning-MIPT) – Implementation of advanced RL agents for complex decision-making environments.
 * 📐 [**Geometric Deep Learning**](https://github.com/faranbutt/Geometeric-Deep-Learning-MIPT) – Exploring non-Euclidean data structures and graph neural networks.
 * 🎯 [**Object Tracking (Kalman Filter)**](https://github.com/faranbutt/Object-Tracking-via-Kalman-Filter) – Real-time motion estimation and tracking using mathematical state prediction.
@@ -19,12 +17,14 @@ Hi! I'm **Faran Taimoor Butt**, a Full Stack Software Engineer and Machine Learn
 
 ### **Full Stack & Web Engineering**
 * 🛍️ [**Dine Ecommerce**](https://github.com/faranbutt/Ecommerce-App-Full-Stack) – Modern full-stack shopping platform with Stripe integration and Drizzle ORM.
+* 🧠 [**FastContentAI**](https://github.com/faranbutt/FastContentAI) – AI-powered content generation platform built with LLM pipelines.
 * 💰 [**Presale Staking DApp**](https://github.com/faranbutt/Presale-staking-dapp) – Decentralized application for cryptocurrency staking and token presales.
 * 🎼 [**Music Mood App**](https://github.com/faranbutt/AudioCraft) – Generative AI music platform that creates tracks based on user sentiment.
 * 🖼️ [**DALL·E 360**](https://github.com/faranbutt/dalle-360) – A creative wrapper for generating and managing AI-driven artwork.
 * 🔍 [**Easy Scrape**](https://github.com/faranbutt/Web-Parser) – High-performance web parser designed for efficient data extraction.
 * 📚 [**Language Lab**](https://github.com/faranbutt/Language-Lab) – Interactive web application designed for language learning and practice.
 * 📝 [**IntelliSum**](https://github.com/faranbutt/IntelliSum) – Intelligent text summarization tool powered by NLP models.
+* 🧴 [**SkinCareAI**](https://github.com/faranbutt/Skin-Care-AI) – Intelligent diagnostic mobile app using image classification for skin health analysis.
 
 ---
 
