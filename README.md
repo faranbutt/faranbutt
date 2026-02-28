@@ -37,15 +37,7 @@ Hi! I'm **Faran Taimoor Butt**, a Full Stack Software Engineer and Machine Learn
 <p align="left">
 <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,flask,fastapi,opencv,linux,cpp" />
 </p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faranbutt&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faranbutt&layout=compact&theme=radical" height="150"/>
-</p>
-
+>
 
 ---
 
