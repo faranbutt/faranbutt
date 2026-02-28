@@ -42,14 +42,6 @@ Hi! I'm **Faran Taimoor Butt**, a Full Stack Software Engineer and Machine Learn
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faranbutt&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faranbutt&layout=compact&theme=radical" height="150"/>
-</p>
-
----
-
 ### ☕ Let’s Connect
 If you’re interested in **collaborating on AI, robotics, or full-stack ML projects**, feel free to reach out!  
 📩 **faranbutt789@gmail.com** | [LinkedIn](https://linkedin.com/in/faranbutt) | [Portfolio](https://faranbuttt.vercel.app)
