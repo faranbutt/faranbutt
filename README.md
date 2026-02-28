@@ -1,70 +1,44 @@
-# 🧠 Full Stack Engineer / Machine Learning Engineer / AI Engineer — Faran Taimoor Butt
+# 🧠 Full Stack Engineer / Machine Learning Engineer — Faran Taimoor Butt
 
-Hi! I'm **Faran Taimoor Butt**, a Full Stack Software Engineer and Machine Learning/AI Engineer with expertise in building scalable web applications and intelligent systems that solve real-world problems.
-My expertise spans in **Full Stack Software Development (Web, Mobile), Natural Language Processing, Reinforcement Learning, Computer Vision, Recommender Systems, Web & Mobile Application Development **.  
-
----
-
-## 🧩 Technologies & Tools
-### Full Stack Stack
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nestjs,nodejs,express,tailwind,mongodb,postgres,docker,aws" />
-</p>
-
-### Machine Learning Stack
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,flask,fastapi,opencv,linux,cpp" />
-</p>
+Hi! I'm **Faran Taimoor Butt**, a Full Stack Software Engineer and Machine Learning/AI Engineer with 2+ years of experience building scalable applications and intelligent systems. I specialize in bridging the gap between product ideation and high-performance implementation.
 
 ---
 
 ## 🚀 Featured Projects
 
-| Cassava Disease Prediction | Reinforcement Learning — MIPT |
-|----------------------------|-------------------------------|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Cassava-Disease-Prediction&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Cassava-Disease-Prediction) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Reinforcement-Learning-MIPT&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Reinforcement-Learning-MIPT) |
+### **AI & Machine Learning**
+* 🧠 **FastContentAI** – AI-powered content generation platform built with LLM pipelines and LangChain.
+* 🏥 **3D U-Net Brain Tumor Segmentation** – Deep learning model for high-precision MRI medical image segmentation.
+* 🌿 **Cassava Disease Prediction** – Computer vision system to identify and classify agricultural crop diseases.
+* 🧴 **SkinCareAI** – Intelligent diagnostic tool using image classification for skin health analysis.
+* 🤖 **Reinforcement Learning (MIPT)** – Implementation of advanced RL agents for complex decision-making environments.
+* 📐 **Geometric Deep Learning** – Exploring non-Euclidean data structures and graph neural networks.
+* 🎯 **Object Tracking (Kalman Filter)** – Real-time motion estimation and tracking using mathematical state prediction.
+* 🎨 **GAN Learning** – Generative Adversarial Networks for synthetic data and image generation.
+* 👁️ **Mindful AI** – Computer vision agent designed to track eye-blinking for user wellness.
 
-| Computer Vision | Flower Vision |
-|-----------------|----------------|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Computer-Vision&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Computer-Vision) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Flower-Vision&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Flower-Vision) |
+### **Full Stack & Web Engineering**
+* 🛍️ **Dine Ecommerce** – Modern full-stack shopping platform with Stripe integration and Drizzle ORM.
+* 💰 **Presale Staking DApp** – Decentralized application for cryptocurrency staking and token presales.
+* 🎼 **Music Mood App** – Generative AI music platform that creates tracks based on user sentiment.
+* 🖼️ **DALL·E 360** – A creative wrapper for generating and managing AI-driven artwork.
+* 🔍 **Easy Scrape** – High-performance web parser designed for efficient data extraction.
+* 📚 **Language Lab** – Interactive web application designed for language learning and practice.
+* 📝 **IntelliSum** – Intelligent text summarization tool powered by NLP models.
 
-| Concrete Crack Detection | GAN Learning |
-|---------------------------|----------------|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Concreate-Crack-Detection&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Concreate-Crack-Detection) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=GAN-Learning&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/GAN-Learning) |
+---
 
-| Machine Learning — MIPT | Geometric Deep Learning — MIPT |
-|----------------------------|--------------------------------|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Machine-Learing-MIPT&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Machine-Learing-MIPT) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Geometeric-Deep-Learning-MIPT&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Geometeric-Deep-Learning-MIPT) |
+## 🧩 Technologies & Tools
 
-| Recommender Systems — MIPT | FastContentAI |
-|-----------------------------|----------------|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Recommender-Systems&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Recommender-Systems) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=FastContentAI&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/FastContentAI) |
+### Full Stack Stack
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nestjs,nodejs,express,tailwind,mongodb,postgres,docker,aws" />
+</p>
 
-| 3D U-Net Brain Tumor Segmentation | Presale Staking DApp |
-|----------------------------------|----------------------|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Image-Segmentation-MRI&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Image-Segmentation-MRI) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Presale-staking-dapp&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Presale-staking-dapp) |
-
-| Dine – Ecommerce Website | SkinCareAI |
-|---------------------------|------------|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Ecommerce-App-Full-Stack&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Ecommerce-App-Full-Stack) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Skin-Care-AI&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Skin-Care-AI) |
-
-| Language Lab | Easy Scrape |
-|--------------|------------|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Language-Lab&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Language-Lab) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Web-Parser&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Web-Parser) |
-
-| Mindful AI (Eye Welness Agent) | IntelliSum |
-|--------------------------------|------------|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Eye-blinking-classifier&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Eye-blinking-classifier) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=IntelliSum&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/IntelliSum) |
-
-| Music Mood App (GenZ Music Generator) | DALL·E 360 |
-|---------------------------------------|------------|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=AudioCraft&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/AudioCraft) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=dalle-360&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/dalle-360) |
-
-| Object Tracking via Kalman Filter |
-|----------------------------------|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranbutt&repo=Object-Tracking-via-Kalman-Filter&theme=react&border_color=61dafb&border_radius=10)](https://github.com/faranbutt/Object-Tracking-via-Kalman-Filter) |
+### Machine Learning Stack
+<p align="left">
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,flask,fastapi,opencv,linux,cpp" />
+</p>
 
 ---
 
@@ -78,7 +52,7 @@ My expertise spans in **Full Stack Software Development (Web, Mobile), Natural L
 
 ### ☕ Let’s Connect
 If you’re interested in **collaborating on AI, robotics, or full-stack ML projects**, feel free to reach out!  
-📩 **faranbutt789@gmail.com**
+📩 **faranbutt789@gmail.com** | [LinkedIn](https://linkedin.com/in/faranbutt) | [Portfolio](https://faranbuttt.vercel.app)
 
 ---
 
