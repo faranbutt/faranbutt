@@ -1,7 +1,7 @@
-# 🧠 Machine Learning & AI Engineer — Faran Taimoor Butt
+# 🧠 Full Stack Engineer / Machine Learning Engineer / AI Engineer — Faran Taimoor Butt
 
 Hi! I'm **Faran Taimoor Butt**, a Full Stack Software Engineer and Machine Learning/AI Engineer with expertise in building scalable web applications and intelligent systems that solve real-world problems.
-My expertise spans **Natural Language Processing, Reinforcement Learning, Computer Vision, Recommender Systems, Web & Mobile Application Development **.  
+My expertise spans in **Full Stack Software Development (Web, Mobile), Natural Language Processing, Reinforcement Learning, Computer Vision, Recommender Systems, Web & Mobile Application Development **.  
 
 ---
 
