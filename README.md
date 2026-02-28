@@ -5,9 +5,17 @@ My expertise spans in **Full Stack Software Development (Web, Mobile), Natural L
 
 ---
 
-### 🧩 Technologies & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,nestjs,python,pytorch,tensorflow,opencv,flask,fastapi,react,nextjs,nodejs,tailwind,mongodb,git,linux,cpp" />
+## 🧩 Technologies & Tools
+### Full Stack Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nestjs,nodejs,express,tailwind,mongodb,postgres,docker,aws" />
+</p>
+
+### Machine Learning Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,flask,fastapi,opencv,linux,cpp" />
 </p>
 
 ---
