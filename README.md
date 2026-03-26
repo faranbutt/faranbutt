@@ -41,7 +41,7 @@ Hi! I'm **Faran Taimoor Butt**, a Full Stack Software Engineer and Machine Learn
 
 ### **Data Engineering**
 * 🦠 [**Pandemix Pipeline**](https://github.com/faranbutt/Data-Engineering-Capstone-Project) –Complete Covid 19 Data Engineering Pipeline.
-* 🎼 [**TaxiFlow Data Pipeline**](https://github.com/faranbutt/Data-Engineering-Project-1) – Scalable taxi data ingestion pipeline to AWS S3 using MageAI, Terraform, and automated workflows.
+* 🚕 [**TaxiFlow Data Pipeline**](https://github.com/faranbutt/Data-Engineering-Project-1) – Scalable taxi data ingestion pipeline to AWS S3 using MageAI, Terraform, and automated workflows.
 
 
 ---
