@@ -22,6 +22,7 @@ Hi! I'm **Faran Taimoor Butt**, a Full Stack Software Engineer and Machine Learn
 ## 🚀 Featured Projects
 
 ### **Full Stack & Web Engineering (Featured)**
+* 📈 [**LaunchKitAI**](https://launch-kit-ai-gvmz.vercel.app/) – Deploy your AI agents and LLM apps in minutes.
 * 📈 [**Realtime Trading Engine**](https://github.com/faranbutt/Realtime-Trading-Engine) – High-concurrency engine built with NestJS and WebSockets for low-latency market data processing.
 * 🏠 [**Rental Management System**](https://github.com/faranbutt/Rental-Managment-System) – Enterprise-grade SaaS platform for property tracking, automated billing, and tenant management.
 * 🛒 [**Ecommerce Flow**](https://github.com/faranbutt/ecommerce-flow) – Advanced user journey implementation featuring optimized checkout flows and state management.
