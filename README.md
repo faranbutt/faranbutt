@@ -40,6 +40,10 @@ Hi! I'm **Faran Taimoor Butt**, a Full Stack Software Engineer and Machine Learn
 * 👁️ [**Mindful AI**](https://github.com/faranbutt/Eye-blinking-classifier) – Computer vision agent designed to track eye-blinking for user wellness.
 * 🎼 [**Music Mood App**](https://github.com/faranbutt/AudioCraft) – Generative AI music platform that creates tracks based on user sentiment.
 
+### **AI Automation**
+* 📧 [**Intelligent Email Dispatcher & Responder (n8n)**](https://github.com/faranbutt/Intelligent-Email-Dispatcher-Responder) – AI-powered email automation system that classifies incoming emails, generates contextual responses using LLMs, and intelligently routes messages based on intent. Designed to reduce manual workload and streamline communication workflows.
+
+
 ### **Data Engineering**
 * 🦠 [**Pandemix Pipeline**](https://github.com/faranbutt/Data-Engineering-Capstone-Project) –Complete Covid 19 Data Engineering Pipeline.
 * 🚕 [**TaxiFlow Data Pipeline**](https://github.com/faranbutt/Data-Engineering-Project-1) – Scalable taxi data ingestion pipeline to AWS S3 using MageAI, Terraform, and automated workflows.
