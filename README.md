@@ -44,7 +44,7 @@ Hi! I'm **Faran Taimoor Butt**, a Full Stack Software Engineer and Machine Learn
 
 * 🧠 [**Deep Research Agent**](https://github.com/faranbutt/Deep-Research-Agent) – Autonomous AI research system built with n8n that generates fully structured, citation-backed PDF reports (multi-chapter “books”) from a single topic input and delivers them via email.
 
-* * 📄 [**Automatic WordPress Blog Producer**](https://github.com/faranbutt/Automatic-Wordpress-Blog-Producer-) – End-to-end AI blogging pipeline using n8n that researches topics, generates SEO-optimized content, creates images, and publishes structured WordPress drafts automatically.
+* 📄 [**Automatic WordPress Blog Producer**](https://github.com/faranbutt/Automatic-Wordpress-Blog-Producer-) – End-to-end AI blogging pipeline using n8n that researches topics, generates SEO-optimized content, creates images, and publishes structured WordPress drafts automatically.
 
 * 📧 [**Intelligent Email Dispatcher & Responder (n8n)**](https://github.com/faranbutt/Intelligent-Email-Dispatcher-Responder) – AI-powered email automation system that classifies incoming emails, generates contextual responses using LLMs, and intelligently routes messages based on intent. Designed to reduce manual workload and streamline communication workflows.
 
