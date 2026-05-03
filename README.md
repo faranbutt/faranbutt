@@ -41,6 +41,9 @@ Hi! I'm **Faran Taimoor Butt**, a Full Stack Software Engineer and Machine Learn
 * 🎼 [**Music Mood App**](https://github.com/faranbutt/AudioCraft) – Generative AI music platform that creates tracks based on user sentiment.
 
 ### **AI Automation **
+
+* 🐴 [**Metro Shoes Scrapper**](https://github.com/faranbutt/MetroShoesScrapper) – A RAG-based (Retrieval-Augmented Generation) pipeline that scrapes footwear data and implements vector-based similarity search for real-time inventory discovery.
+* 
 * 🐴 [**Lead Generation Agent**](https://github.com/faranbutt/Lead-Generation-Agent) – A Lead Gen Agent that automatically generates high and medium values leads and categories them.
 
 * 🧠 [**Deep Research Agent**](https://github.com/faranbutt/Deep-Research-Agent) – Autonomous AI research system built with n8n that generates fully structured, citation-backed PDF reports (multi-chapter “books”) from a single topic input and delivers them via email.
