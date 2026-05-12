@@ -40,7 +40,7 @@ Hi! I'm **Faran Taimoor Butt**, a Full Stack Software Engineer and Machine Learn
 * 👁️ [**Mindful AI**](https://github.com/faranbutt/Eye-blinking-classifier) – Computer vision agent designed to track eye-blinking for user wellness.
 * 🎼 [**Music Mood App**](https://github.com/faranbutt/AudioCraft) – Generative AI music platform that creates tracks based on user sentiment.
 
-### **AI Automation **
+### **AI Automation (n8n) **
 
 * 🐴 [**Metro Shoes Scrapper**](https://github.com/faranbutt/MetroShoesScrapper) – A RAG-based (Retrieval-Augmented Generation) pipeline that scrapes footwear data and implements vector-based similarity search for real-time inventory discovery.
 * 
