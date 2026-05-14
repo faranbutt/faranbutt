@@ -47,15 +47,10 @@ Hi! I'm **Faran Taimoor Butt**, a Full Stack Software Engineer and Machine Learn
 ### **AI Automation (n8n) **
 
 * 🐴 [**Metro Shoes Scrapper**](https://github.com/faranbutt/MetroShoesScrapper) – A RAG-based (Retrieval-Augmented Generation) pipeline that scrapes footwear data and implements vector-based similarity search for real-time inventory discovery.
-* 
 * 🐴 [**Lead Generation Agent**](https://github.com/faranbutt/Lead-Generation-Agent) – A Lead Gen Agent that automatically generates high and medium values leads and categories them.
-
 * 🧠 [**Deep Research Agent**](https://github.com/faranbutt/Deep-Research-Agent) – Autonomous AI research system built with n8n that generates fully structured, citation-backed PDF reports (multi-chapter “books”) from a single topic input and delivers them via email.
-
 * 📄 [**Automatic WordPress Blog Producer**](https://github.com/faranbutt/Automatic-Wordpress-Blog-Producer-) – End-to-end AI blogging pipeline using n8n that researches topics, generates SEO-optimized content, creates images, and publishes structured WordPress drafts automatically.
-
 * 📧 [**Intelligent Email Dispatcher & Responder (n8n)**](https://github.com/faranbutt/Intelligent-Email-Dispatcher-Responder) – AI-powered email automation system that classifies incoming emails, generates contextual responses using LLMs, and intelligently routes messages based on intent. Designed to reduce manual workload and streamline communication workflows.
-
 
 ### **Data Engineering**
 * 🦠 [**Pandemix Pipeline**](https://github.com/faranbutt/Data-Engineering-Capstone-Project) –Complete Covid 19 Data Engineering Pipeline.
