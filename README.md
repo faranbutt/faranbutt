@@ -24,7 +24,7 @@ Hi! I'm **Faran Taimoor Butt**, a Full Stack Software Engineer and Machine Learn
 ## 🚀 Featured Projects
 
 ### **Full Stack & Web Engineering (Featured)**
-
+* 📱  [**TradeHub**](https://github.com/faranbutt/Trading-Hub.git) – TradeHub is a full-stack trading mobile application currently in **active development phase**.
 * 📱  [**Recurly**](https://github.com/faranbutt/recurly) – Recurly is a modern, mobile-first subscription management application designed to help users track, analyze, and optimize their recurring expenses. 
 * 📈 [**LaunchKitAI**](https://launch-kit-ai-gvmz.vercel.app/) – Deploy your AI agents and LLM apps in minutes.
 * 📈 [**Realtime Trading Engine**](https://github.com/faranbutt/Realtime-Trading-Engine) – High-concurrency engine built with NestJS and WebSockets for low-latency market data processing.
