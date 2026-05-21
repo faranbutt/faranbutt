@@ -8,7 +8,7 @@ Hi! I'm **Faran Taimoor Butt**, a Full Stack Software Engineer and Machine Learn
 
 
 
-### Full Stack Stack
+### Full Stack
 <p align="left">
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nestjs,nodejs,express,tailwind,mongodb,postgres,docker,aws" />
 </p>
