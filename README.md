@@ -5,7 +5,7 @@ Hi! I'm **Faran Taimoor Butt**, a Full Stack Software Engineer and Machine Learn
 ---
 
 ## GitHub:
-[GitHub Profile](https://github.com/faranbutt/)
+[https://github.com/faranbutt/](https://github.com/faranbutt/)
 
 ## 🧩 Technologies & Tools
 
