@@ -1,4 +1,4 @@
-# 🧠 Full Stack Machine Learning Engineer — Faran Taimoor Butt
+# 🧠 Full Stack Machine Learning & Automations Engineer — Faran Taimoor Butt
 
 Hi! I'm **Faran Taimoor Butt**, a Full Stack Software Engineer and Machine Learning/AI Engineer with 2+ years of experience building scalable applications and intelligent systems. I specialize in bridging the gap between product ideation and high-performance implementation.
 
