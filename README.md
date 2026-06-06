@@ -39,6 +39,9 @@ Hi! I'm **Faran Taimoor Butt**, a Full Stack Software Engineer and Machine Learn
 * 🔍 [**Easy Scrape**](https://github.com/faranbutt/Web-Parser) – High-performance web parser designed for efficient data extraction.
 
 ### **AI & Machine Learning**
+* 🛡️ [**GuardPEFT**](https://github.com/faranbutt/GuardPEFT) – Framework for cross-domain safety alignment and explainable critique in LLMs 
+* 🧠 [**Seq2Seq with Attention**](https://github.com/faranbutt/Seq2Seq_with_Attention) – PyTorch implementation of the foundational "Neural Machine Translation by Jointly Learning to Align and Translate" paper (Bahdanau et al., 2014)
+reduction in over-refusal. Structured 3‑part output: safety judgement, violation categories, natural‑language reasoning.
 * 🏥 [**3D U-Net Brain Tumor Segmentation**](https://github.com/faranbutt/Image-Segmentation-MRI) – Deep learning model for high-precision MRI medical image segmentation.
 * 🌿 [**Cassava Disease Prediction**](https://github.com/faranbutt/Cassava-Disease-Prediction) – Computer vision system to identify and classify agricultural crop diseases.
 * 🤖 [**Reinforcement Learning (MIPT)**](https://github.com/faranbutt/Reinforcement-Learning-MIPT) – Implementation of advanced RL agents for complex decision-making environments.
